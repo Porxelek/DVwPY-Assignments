@@ -1,4 +1,4 @@
-<h1><strong><span style="color: #77C8D5;">Week-1 (17 Jan)</strong></span>
+<h1><strong><span style="color: #77C8D5;">Week-1 (18 Jan)</strong></span>
 
 ![logo](https://github.com/clarusway/DS-TR-1022-DA-Module-Students/blob/main/2-%20Weekly%20Agenda/ds_agenda_logo.png)
 
