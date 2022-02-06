@@ -58,7 +58,7 @@ The main and only aim of this part is to develop your skills that you need durin
 
 **1. There are 14 plot questions in Jupyter Notebook file below. Please draw the requested plots for each question.**
 
-- [Jupyter Notebook Data Visualization](https://github.com/clarusway/Clarusway-DS-Students-08-21/blob/main/2-%20Weekly%20Agenda/week4_DV_student.ipynb)
+- [Jupyter Notebook Data Visualization](https://github.com/clarusway/DS-TR-1022-DA-Module-Students/blob/main/2-%20Weekly%20Agenda/Week_4/week4_DV_student.ipynb)
 
 
 
