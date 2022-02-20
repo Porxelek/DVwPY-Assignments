@@ -88,11 +88,11 @@ Please take a look at the exercises below to refresh what you've learned.
                   
 **8. Numpy Exercises.**
 
-- [Numpy Exercise](https://drive.google.com/file/d/1H8mtqSPmaIry8Fu2f_5kpcVwizd3Ncfz/view?usp=sharing)
+- [Numpy Exercise](https://github.com/clarusway/DS-TR-1022-DA-Module-Students/blob/main/2-%20Weekly%20Agenda/Week_6/06_Self_Study_NumPy_Exercise_Student.ipynb)
                   
 **9. Matplotlib Exercises.**
 
-- [Matplotlib Exercise](https://drive.google.com/file/d/1H8mtqSPmaIry8Fu2f_5kpcVwizd3Ncfz/view?usp=sharing)
+- [Matplotlib Exercise](https://github.com/clarusway/DS-TR-1022-DA-Module-Students/blob/main/2-%20Weekly%20Agenda/Week_6/06_Self_Study_Matplotlib_Exercise_Student.ipynb)
                   
 <br>
 
