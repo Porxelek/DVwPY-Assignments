@@ -53,7 +53,7 @@ Please remember; we don’t want to put extra pressure to anyone, it’s totally
 
 **1. Please work on the Probability and Binomial Distribution related problems below**
 
-- [Probability and Binomial Distribution Related Problems](https://github.com/KdrDrn/DS_DE_COHORT-1/blob/main/WEEKLY_AGENDA/Week_7/week7-agenda-statistics%20questions%20(Probability%20%26%20Distributions).ipynb)
+- [Probability and Binomial Distribution Related Problems](https://github.com/clarusway/DS-TR-1022-DA-Module-Students/blob/main/2-%20Weekly%20Agenda/Week_7/07_Probability_and_Binomial_Distribution_Related_Problems_Student.ipynb)
                   
 **2. Please read the articles below**
                   
@@ -82,11 +82,11 @@ Please take a look at the exercises below to refresh what you've learned.
                   
 **5. Pandas Exercises.**
 
-- [Pandas Exercise](https://drive.google.com/file/d/1H8mtqSPmaIry8Fu2f_5kpcVwizd3Ncfz/view?usp=sharing)
+- [Pandas Exercise](https://github.com/clarusway/DS-TR-1022-DA-Module-Students/blob/main/2-%20Weekly%20Agenda/Week_7/07_Pandas_Exercise_Student.ipynb)
                   
 **6. Seaborn Exercises.**
 
-- [Seaborn Exercise](https://drive.google.com/file/d/1H8mtqSPmaIry8Fu2f_5kpcVwizd3Ncfz/view?usp=sharing)
+- [Seaborn Exercise](https://github.com/clarusway/DS-TR-1022-DA-Module-Students/blob/main/2-%20Weekly%20Agenda/Week_7/07_Self_Study_Seaborn_Exercise_Student.ipynb)
                   
 <br>
 
