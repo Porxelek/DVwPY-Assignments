@@ -53,7 +53,7 @@ Please remember; we don’t want to put extra pressure to anyone, it’s totally
 
 **1. Answer questions in the below link according to SampleRetail Database**
 
-- [RDB&SQL Exercise-1](https://github.com/KdrDrn/DS_DE_COHORT-1/blob/main/Week_8/C-10_Weekly%20Agenda_8_RD%26SQL_Student-1.sql)
+- [RDB&SQL Exercise-1](https://github.com/clarusway/DS-TR-1022-DA-Module-Students/blob/main/2-%20Weekly%20Agenda/Week_8/C-10_Weekly%20Agenda_8_RDB%26SQL_Student-1.sql)
                   
 **2. Please read the articles below**
                   
@@ -84,11 +84,11 @@ Please remember; we don’t want to put extra pressure to anyone, it’s totally
 <h4><strong>Self-Study</strong></h4>
 <hr>
 
-You've learned a lot about Data Analysis so far. You have done assignments and projects. In order to keep this knowledge fresh and be appliable anytime, you will work on a 4 series project. All kinds of instructions about what to do and how to do are clearly in the documents. The first 2 series will be shared with you this week, and the last 2 series will be shared with you next week. Please take time for such activities and try to do it.
+You've learned a lot about Data Analysis so far. You have done assignments and projects. In order to keep this knowledge fresh and be appliable anytime, you will work on a 4 series project. All kinds of instructions about what to do and how to do are clearly in the documents. The first 2 serieshttps://github.com/clarusway/DS-TR-1022-DA-Module-Students/blob/main/2-%20Weekly%20Agenda/Week_8/TrafficPoliceStopProject_Part-2_Exploring_The_Relationship_Between_Gender_And_Policing_Student.ipynb will be shared with you this week, and the last 2 series will be shared with you next week. Please take time for such activities and try to do it.
                   
-- [TrafficPoliceStopProject_Part-1_Preparing_The_Data_For_Analysis_Student](https://github.com/KdrDrn/DS_DE_COHORT-1/blob/main/Week_8/TrafficPoliceStopProject_Part-1_Preparing_The_Data_For_Analysis_Student.ipynb)  
+- [TrafficPoliceStopProject_Part-1_Preparing_The_Data_For_Analysis_Student](https://github.com/clarusway/DS-TR-1022-DA-Module-Students/blob/main/2-%20Weekly%20Agenda/Week_8/TrafficPoliceStopProject_Part-1_Preparing_The_Data_For_Analysis_Student.ipynb)  
                   
-- [TrafficPoliceStopProject_Part-2_Exploring_The_Relationship_Between_Gender_And_Policing_Student](https://github.com/KdrDrn/DS_DE_COHORT-1/blob/main/Week_8/TrafficPoliceStopProject_Part-2_Exploring_The_Relationship_Between_Gender_And_Policing_Student.ipynb)
+- [TrafficPoliceStopProject_Part-2_Exploring_The_Relationship_Between_Gender_And_Policing_Student](https://github.com/clarusway/DS-TR-1022-DA-Module-Students/blob/main/2-%20Weekly%20Agenda/Week_8/TrafficPoliceStopProject_Part-2_Exploring_The_Relationship_Between_Gender_And_Policing_Student.ipynb)
                   
 <br>
 
