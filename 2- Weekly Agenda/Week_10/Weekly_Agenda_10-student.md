@@ -101,7 +101,7 @@ Please remember; we don’t want to put extra pressure to anyone, it’s totally
 
 **You've learned a lot about Data Analysis so far. You have done assignments and projects. In order to keep this knowledge fresh and to applicable, you will work on a 4 series project. All kinds of instructions about what to do and how to do are clearly in the documents. Here is the last part. Try to do it please.** 
                   
-- [TrafficPoliceStopProject_Part-4_Analyzing-The-Effect-Of-Weather-on-Policing](https://github.com/KdrDrn/DS_DE_COHORT-1/blob/main/WEEKLY_AGENDA/Week_10/TrafficPoliceStopProject_Part-3_Visual-Exploratory-Data-Analysis_Student.ipynb) 
+- [TrafficPoliceStopProject_Part-4_Analyzing-The-Effect-Of-Weather-on-Policing](https://github.com/clarusway/DS-TR-1022-DA-Module-Students/blob/main/2-%20Weekly%20Agenda/Week_10/TrafficPoliceStopProject_Part-4_Analyzing-The-Effect-Of-Weather-on-Policing_Student.ipynb) 
                   
 <br>
 
