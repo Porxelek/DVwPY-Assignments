@@ -1,7 +1,7 @@
 ------ built in functions
 
 -- March 3, 2022
-
+use new_db
 
 CREATE TABLE t_date_time (
 	A_time time,
@@ -86,6 +86,8 @@ FROM	t_date_time
 
 ----- 
 ---- SALE.ORDERS TABLOSUNDAKI ORDER DATE ILE SHIPPED DATE ARASINDAKI FARKI GUN BAZINDA ALALIM
+use SampleRetail
+
 
 SELECT * FROM [sale].[orders]
 
@@ -131,10 +133,10 @@ SELECT LEN (123456)
 SELECT LEN ('WeLCOME')
 
 
-SELECT LEN (WELCOME)
+SELECT LEN (WELCOME) -- char ifadeleri tek týrnak ('') içinde yazmalýyýz. 
 
 
------
+----- SQl de REGEX ---
 
 SELECT CHARINDEX('C', 'CHARACTER')
 
